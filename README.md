@@ -3,6 +3,7 @@
     npm install
 
 ### To start the json server:
+Json server is used to create a rest data endpoint to fetch the list of transactions.
 
     npm run json:server
 
@@ -25,3 +26,5 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 
 Ex: When Transaction Amount = $120,
 Total Rewards Points = 2x$20 + 1x$50 = 90 points
+
+
